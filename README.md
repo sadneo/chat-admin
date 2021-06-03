@@ -5,8 +5,8 @@ Hierarchy goes like
 
 Main: Script
 
-  Settings: ModuleScript
+XSettings: ModuleScript
   
-  PackageFolder: Folder
+XPackageFolder: Folder
   
-    Core: ModuleScript *this is just an example of commands, you don't have to include it.*
+XXCore: ModuleScript *this is just an example of commands, you don't have to include it.*
